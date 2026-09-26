@@ -1,4 +1,4 @@
-<!-- ========================= HEADER ========================= -->
+<!-- ============================== HEADER ============================== -->
 
 <p align="center">
   <img
@@ -23,7 +23,7 @@
 <br />
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://readme-typing-svg.demolab.com">
     <img
       src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Umaer+Islam;Full+Stack+Web+Developer;Creative+Designer;JavaScript+%26+TypeScript+Enthusiast;Designer+%E2%80%A2+Builder+%E2%80%A2+Problem+Solver"
       alt="Typing animation"
@@ -33,17 +33,15 @@
 
 <p align="center">
   <strong>Full Stack Web Developer & Creative Designer</strong>
-</p>
-
-<p align="center">
+  <br />
   I design and build modern, functional, and user-focused digital experiences.
 </p>
 
 ---
 
-<!-- ========================= ABOUT ========================= -->
+<!-- ============================== ABOUT ============================== -->
 
-## 👋 About Me
+## 🧑‍💻 About Me
 
 I'm **Umaer Islam**, a Full Stack Web Developer & Creative Designer focused on building modern web applications and meaningful digital experiences.
 
@@ -58,7 +56,7 @@ My background in design gives me a different perspective on development — I ca
 
 ---
 
-<!-- ========================= CURRENT FOCUS ========================= -->
+<!-- ============================== FOCUS ============================== -->
 
 ## 🚧 Currently Working On
 
@@ -70,7 +68,11 @@ My background in design gives me a different perspective on development — I ca
 ▸ Backend Development
 ▸ Database Management
 ▸ Real-World Project Architecture
+```
 
+---
+
+<!-- ============================== TECH STACK ============================== -->
 
 ## 🛠️ Tech Stack
 
@@ -90,4 +92,52 @@ My background in design gives me a different perspective on development — I ca
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Development and design tools" />
+</p>
+
+---
+
+<!-- ============================== GITHUB STATS ============================== -->
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=umaer-islam&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&border_radius=12&bg_color=0d1117"
+    alt="Umaer Islam's GitHub stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=umaer-islam&layout=compact&theme=dark&hide_border=true&border_radius=12&bg_color=0d1117"
+    alt="Umaer Islam's most used languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=umaer-islam&theme=dark&hide_border=true&border_radius=12&background=0D1117"
+    alt="Umaer Islam's GitHub streak"
+  />
+</p>
+
+---
+
+<!-- ============================== FOOTER ============================== -->
+
+<h3 align="center">📫 Let's build something together</h3>
+
+<p align="center">
+  <a href="https://umaerislam.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/umaer-islam">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:umaarislam23@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Designed & developed with care by Umaer Islam</sub>
 </p>

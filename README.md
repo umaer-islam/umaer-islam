@@ -70,3 +70,24 @@ My background in design gives me a different perspective on development — I ca
 ▸ Backend Development
 ▸ Database Management
 ▸ Real-World Project Architecture
+
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" alt="Frontend technologies" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,mysql" alt="Backend and database technologies" />
+</p>
+
+### Tools & Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Development and design tools" />
+</p>

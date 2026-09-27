@@ -103,12 +103,12 @@ My background in design gives me a different perspective on development — I ca
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=umaer-islam&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&border_radius=12&bg_color=0d1117"
+    src="https://github-readme-stats.shion.dev/api?username=umaer-islam&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&border_radius=12&bg_color=0d1117"
     alt="Umaer Islam's GitHub stats"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=umaer-islam&layout=compact&theme=dark&hide_border=true&border_radius=12&bg_color=0d1117"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=umaer-islam&layout=compact&theme=dark&hide_border=true&border_radius=12&bg_color=0d1117"
     alt="Umaer Islam's most used languages"
   />
 </p>

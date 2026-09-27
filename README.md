@@ -41,24 +41,24 @@
 
 <!-- ============================== ABOUT ============================== -->
 
-## 🧑‍💻 About Me
+## <img src="https://api.iconify.design/mdi/account.svg?color=%236e7781&width=20" alt="" /> About Me
 
 I'm **Umaer Islam**, a Full Stack Web Developer & Creative Designer focused on building modern web applications and meaningful digital experiences.
 
 My background in design gives me a different perspective on development — I care about both **how a product works and how people experience it**.
 
-- 💻 Currently developing my Full Stack Web Development skills
-- 🎨 Background in Graphic Design & Visual Creativity
-- ⚡ Working with JavaScript, TypeScript, React and modern web technologies
-- 🧠 Interested in AI-driven development and practical software engineering
-- 🚀 Building real-world projects to strengthen my development skills
-- 🌐 Open to collaboration, opportunities and interesting projects
+- <img src="https://api.iconify.design/mdi/laptop.svg?color=%236e7781&width=16" alt="" /> Currently developing my Full Stack Web Development skills
+- <img src="https://api.iconify.design/mdi/palette.svg?color=%236e7781&width=16" alt="" /> Background in Graphic Design & Visual Creativity
+- <img src="https://api.iconify.design/mdi/lightning-bolt-outline.svg?color=%236e7781&width=16" alt="" /> Working with JavaScript, TypeScript, React and modern web technologies
+- <img src="https://api.iconify.design/mdi/brain.svg?color=%236e7781&width=16" alt="" /> Interested in AI-driven development and practical software engineering
+- <img src="https://api.iconify.design/mdi/rocket-outline.svg?color=%236e7781&width=16" alt="" /> Building real-world projects to strengthen my development skills
+- <img src="https://api.iconify.design/mdi/web.svg?color=%236e7781&width=16" alt="" /> Open to collaboration, opportunities and interesting projects
 
 ---
 
 <!-- ============================== FOCUS ============================== -->
 
-## 🚧 Currently Working On
+## <img src="https://api.iconify.design/mdi/construction.svg?color=%236e7781&width=20" alt="" /> Currently Working On
 
 ```text
 ▸ Full Stack Web Development
@@ -74,7 +74,7 @@ My background in design gives me a different perspective on development — I ca
 
 <!-- ============================== TECH STACK ============================== -->
 
-## 🛠️ Tech Stack
+## <img src="https://api.iconify.design/mdi/tools.svg?color=%236e7781&width=20" alt="" /> Tech Stack
 
 ### Frontend
 
@@ -98,7 +98,7 @@ My background in design gives me a different perspective on development — I ca
 
 <!-- ============================== GITHUB STATS ============================== -->
 
-## 📊 GitHub Stats
+## <img src="https://api.iconify.design/mdi/chart-box-outline.svg?color=%236e7781&width=20" alt="" /> GitHub Stats
 
 <p align="center">
   <img
@@ -124,7 +124,7 @@ My background in design gives me a different perspective on development — I ca
 
 <!-- ============================== FOOTER ============================== -->
 
-<h3 align="center">📫 Let's build something together</h3>
+<h3 align="center"><img src="https://api.iconify.design/mdi/email-outline.svg?color=%236e7781&width=20" alt="" /> Let's build something together</h3>
 
 <p align="center">
   <a href="https://umaerislam.com">
